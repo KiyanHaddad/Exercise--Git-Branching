@@ -1,1 +1,2 @@
 Inital for merge conflict
+Fast-forward content
